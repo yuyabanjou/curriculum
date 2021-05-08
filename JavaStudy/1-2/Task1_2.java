@@ -27,7 +27,7 @@ public class Task1_2 {
         String[] strArray = {"りんご","もも","ぶどう"};
 
         // ④ ③で作成した配列の2番目の要素を出力しなさい。
-        System.out.println(strArray[2]);
+        System.out.println(strArray[1]);
 
         /* ⑤下記の処理について、何をしているのかコメントを記入してください。
          *  [intクラスの配列intArrayに「10」「20」「30」「40」「50」の値を代入している]
